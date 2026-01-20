@@ -17,10 +17,6 @@ A comprehensive career guidance platform built with Streamlit that provides pers
   - Required Skills Analysis
   
 - **🗺️ Strategic Roadmap**: Four distinct career paths:
-  - Startup Path
-  - MNC Path
-  - Product-based Path
-  - FAANG Path
   
   Each path includes:
   - Free Resources
@@ -41,12 +37,6 @@ A comprehensive career guidance platform built with Streamlit that provides pers
   - Success Stories: Inspiring real-world examples
   - Mood Tracker: Daily emotional well-being tracking
 
-- **⏰ Life-Tracker**:
-  - Study Alarms & Reminders
-  - Math Challenge: Solve problems to dismiss alarms (Alarmy-style)
-  - Task Checklist: Daily roadmap goal tracking
-  - Calendar: Event and reminder management
-
 - **🤖 Assistant AI**: Sidebar chat for app help and career queries
 
 ## 🎨 UI/UX Features
@@ -61,38 +51,16 @@ A comprehensive career guidance platform built with Streamlit that provides pers
 
 1. **Clone or download this repository**
 
-2. **Install dependencies**:
-```bash
-pip install -r requirements.txt
-```
-
 3. **Run the application**:
-```bash
-streamlit run app.py
-```
+https://studio.pickaxe.co/STUDIOWYGWZLVV26EHP41
 
 ## 📁 Project Structure
 
 ```
 CuraPath AI/
-├── app.py                 # Main application file
 ├── requirements.txt       # Python dependencies
 ├── README.md             # This file
-├── .streamlit/
-│   └── config.toml       # Streamlit configuration
-├── utils/
-│   ├── __init__.py
-│   ├── auth.py           # Authentication utilities
-│   ├── storage.py        # Data persistence utilities
-│   ├── career_engine.py  # Career suggestion engine
-│   └── ui_components.py  # UI components and styling
-└── data/                 # User data storage (created automatically)
-    ├── users.json
-    ├── profiles/
-    ├── progress/
-    ├── journals/
-    ├── tasks/
-    └── alarms/
+      # Streamlit configuration
 ```
 
 ## 🔐 Security
@@ -141,4 +109,5 @@ For issues or questions, please refer to the Assistant AI within the application
 ---
 
 **Built with ❤️ for students and career changers**
+
 
