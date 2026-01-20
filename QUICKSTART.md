@@ -1,44 +1,35 @@
-# 🚀 Quick Start Guide - CuraPath AI
+# Deployment / Quick Start
 
-## Installation Steps
-
-1. **Install Python dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-2. **Run the application**:
-   ```bash
-   streamlit run app.py
-   ```
+1. **Run the application**:
+  https://studio.pickaxe.co/STUDIOWYGWZLVV26EHP41
+   Click on link 
 
 3. **Open your browser**:
-   The app will automatically open at `http://localhost:8501`
+   The site will automatically open at //studio.pickaxe.co/STUDIOWYGWZLVV26EHP41
 
 ## First Time Setup
 
 1. **Create an Account**:
    - Click on "Sign Up" tab
-   - Enter a username and password
+   - Enter a email and password
    - Click "Sign Up"
 
 2. **Login**:
    - Enter your credentials
    - Click "Login"
 
-3. **Complete Onboarding**:
+3. ***Profile Information***:
    - Fill out all 5 steps:
      - Personal Information (Name, Age)
      - Education (School, Year)
      - Skills (comma-separated list)
-     - Hobbies & Interests
-     - Career Goals
+     - Career 
 
 ## Using the Application
 
 ### Career Journey Flow
 
-1. **Career Oracle** 🔮:
+1. **Career Sujjestion ** 🔮:
    - View personalized career suggestions
    - Each shows success probability, time estimate, and reasoning
    - Click "Select" on any career to proceed
@@ -56,7 +47,6 @@
 ### Daily Tools
 
 - **Mind-Care Suite** 💚: Journal, get motivation, read success stories, track mood
-- **Life-Tracker** ⏰: Set alarms with math challenges, manage tasks, view calendar
 - **Assistant AI** 🤖: Get help via sidebar chat
 
 ## Tips
@@ -74,4 +64,5 @@
 - **UI not loading**: Clear browser cache and refresh
 
 Enjoy your career journey! 🎯
+
 
